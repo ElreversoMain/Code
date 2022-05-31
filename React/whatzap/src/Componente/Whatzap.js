@@ -1,6 +1,6 @@
 import React from "react";
 import react from "react"
-import './index.css';
+import './Whatzap.css';
 
 
 export class App extends React.Component{
